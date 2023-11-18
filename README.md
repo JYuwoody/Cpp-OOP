@@ -3,7 +3,7 @@
 git status  
 git add -A  
 git status  
-git commit -m "first commit"  
+git commit -m "constructors and class methods"  
 git push -u Cpp-OOP main  
 
 g++ -o hello hello.cpp
