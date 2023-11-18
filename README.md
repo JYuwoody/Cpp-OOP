@@ -3,7 +3,7 @@
 git status  
 git add -A  
 git status  
-git commit -m "encapsulation in programming"  
+git commit -m "inheritance in programming"  
 git push -u Cpp-OOP main  
 
 g++ -o hello hello.cpp
